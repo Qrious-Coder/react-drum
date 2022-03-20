@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; 
+  background-color: black;
+}
+
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #cf9fff;
+  color: #097969;
+
+  /* background-color: #032947; */
+}
+.navbar h1 {
+  color: #bf40bf;
+  margin-left: 10px;
+}
+.navbar .left {
+  margin-left: auto;
+}
+
+.footerIcon :hover {
+  background-color: #5d3fd3;
+  padding: 2px;
+}
