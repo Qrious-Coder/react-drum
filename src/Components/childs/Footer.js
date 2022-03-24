@@ -17,7 +17,7 @@ const Footer = () => {
           View my code on{" "}
           <span style={{ textDecoration: "underline purple", color: "pink" }}>
             <a
-              href="https://github.com/Qrious-Coder/react-calculator"
+              href="https://github.com/Qrious-Coder/react-drum"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -30,7 +30,7 @@ const Footer = () => {
       <p className="grid grid-cols-4 gap-0 mx-auto place-content-center w-48 my-3">
         <span className="footerIcon">
           <a
-            href="https://github.com/Qrious-Coder/react-calculator"
+            href="https://qrious-coder.github.io/react-drum/"
             target="_blank"
             rel="noopener noreferrer"
           >
