@@ -1,2 +1,2 @@
 # react-drum
-Compose your dumming song with this React dumming kit
+Compose a dumming song with this React dumming kit
