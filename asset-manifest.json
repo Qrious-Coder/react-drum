@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-drum/static/css/main.a7f89de6.css",
+    "main.js": "/react-drum/static/js/main.6c674499.js",
+    "static/media/headphone.png": "/react-drum/static/media/headphone.8ff3f9f4ed9dcdb1d23b.png",
+    "static/media/github.png": "/react-drum/static/media/github.389f1e570b67e3e3b2a4.png",
+    "static/media/gmail.png": "/react-drum/static/media/gmail.168531d6bbe6324895ea.png",
+    "static/media/tele.png": "/react-drum/static/media/tele.3f0dc33ab8dd25cfce08.png",
+    "static/media/whatsapp.png": "/react-drum/static/media/whatsapp.2494f8b8ccb6c8e83082.png",
+    "static/media/drumming.gif": "/react-drum/static/media/drumming.b1e3fcd1f51c0ba57ee3.gif",
+    "index.html": "/react-drum/index.html",
+    "main.a7f89de6.css.map": "/react-drum/static/css/main.a7f89de6.css.map",
+    "main.6c674499.js.map": "/react-drum/static/js/main.6c674499.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f89de6.css",
+    "static/js/main.6c674499.js"
+  ]
+}
